@@ -73,7 +73,9 @@ Visualized using **Bing Maps**, showing geographic distribution of sales:
 ## 📸 Dashboard Preview
 
 > *(Attach image here)*  
-> ![Sales Performance Dashboard](SALES-PERFORMANCE-DASHBOARD.png)
+> <p align="center">
+  <img src="SALES-PERFORMANCE-DASHBOARD.png" alt="Sales Performance Dashboard Screenshot" width="80%">
+</p>
 > *(You can convert your PDF to PNG using Power BI export or online tools)*
 
 ---
